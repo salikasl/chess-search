@@ -24,5 +24,3 @@ export interface Card {
     white: PlayerInfo;
     black: PlayerInfo;
 }
-
-export type Username = string;
